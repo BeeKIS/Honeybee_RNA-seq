@@ -1,0 +1,15 @@
+,biological_replicate,behaviour
+Clo22,1,closing
+Clo26,2,closing
+Clo33,3,closing
+Clo34,4,closing
+Hyg2,1,hygienic
+Hyg3,2,hygienic
+Hyg14,3,hygienic
+Hyg35,4,hygienic
+Hyg37,5,hygienic
+NHyg5,1,non_hygienic
+NHyg6,2,non_hygienic
+NHyg7,3,non_hygienic
+NHyg8,4,non_hygienic
+NHyg10,5,non_hygienic
