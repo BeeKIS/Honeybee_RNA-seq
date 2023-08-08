@@ -1,4 +1,6 @@
 ## Honeybee_RNA-seq
+### Data:
+- 
 ### DEseq2_code.R: 
 Code used for Differential Gene Expression analysis 
 ### Gene_annotation_code.R: 
